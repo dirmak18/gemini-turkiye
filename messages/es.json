@@ -1,0 +1,207 @@
+{
+  "Metadata": {
+    "title": "Gemini Turkiye | Experiencias Premium de Viaje por Turquía",
+    "description": "Viajes de lujo seleccionados por la encrucijada de civilizaciones. Descubre Capadocia, Estambul, Pamukkale y más con Gemini Turkiye."
+  },
+  "Nav": {
+    "home": "Inicio",
+    "about": "Sobre Nosotros",
+    "destinations": "Destinos",
+    "experiences": "Experiencias",
+    "contact": "Contacto",
+    "bookNow": "Reservar Ahora"
+  },
+  "Hero": {
+    "tagline": "Donde Oriente se Encuentra con Occidente",
+    "subtitle": "Viajes de lujo seleccionados por la encrucijada de civilizaciones",
+    "cta": "Planifica tu Viaje",
+    "scrollDown": "Desplázate para explorar"
+  },
+  "Destinations": {
+    "sectionTitle": "Destinos Icónicos",
+    "sectionSubtitle": "Desde ruinas antiguas hasta costas mediterráneas, descubre los lugares más impresionantes de Turquía",
+    "viewAll": "Ver Todos los Destinos",
+    "learnMore": "Saber Más",
+    "cappadocia": {
+      "name": "Capadocia",
+      "description": "Chimeneas de hadas y aventuras en globo aerostático al amanecer sobre un paisaje lunar"
+    },
+    "istanbul": {
+      "name": "Estambul",
+      "description": "Donde los continentes colisionan — la grandeza bizantina se encuentra con la magnificencia otomana"
+    },
+    "pamukkale": {
+      "name": "Pamukkale",
+      "description": "Terrazas de castillo de algodón con resplandecientes travertinos blancos y antiguas piscinas termales"
+    },
+    "ephesus": {
+      "name": "Éfeso",
+      "description": "Camina a través de milenios de historia en una de las ciudades antiguas mejor conservadas"
+    },
+    "antalya": {
+      "name": "Antalya",
+      "description": "La costa turquesa se encuentra con las ruinas licias antiguas en la riviera mediterránea"
+    },
+    "gobeklitepe": {
+      "name": "Göbeklitepe",
+      "description": "El complejo de templos más antiguo del mundo — reescribiendo la historia de la civilización humana"
+    },
+    "bodrum": {
+      "name": "Bodrum",
+      "description": "Elegancia egea con pueblos encalados, bahías azules y vida nocturna legendaria"
+    }
+  },
+  "Experiences": {
+    "sectionTag": "Experiencias",
+    "sectionTitle": "Experiencias Seleccionadas",
+    "sectionSubtitle": "Recuerdos eternos creados con pasión y experiencia",
+    "balloon": {
+      "name": "Paseos en Globo Aerostático",
+      "description": "Vuela sobre las chimeneas de hadas de Capadocia al amanecer, contemplando un paisaje que desafía la imaginación desde el cielo.",
+      "highlight": "Vuelos al amanecer sobre Capadocia"
+    },
+    "gulet": {
+      "name": "Cruceros en Goleta",
+      "description": "Navega por las aguas turquesas del Egeo y el Mediterráneo a bordo de una tradicional goleta turca de madera.",
+      "highlight": "Yate privado por la costa"
+    },
+    "cultural": {
+      "name": "Viajes Culturales",
+      "description": "Contempla la fascinante ceremonia de los Derviches Giróvagos y explora tradiciones vivas que abarcan siglos.",
+      "highlight": "Ceremonias Sema y tours del patrimonio"
+    },
+    "food": {
+      "name": "Aventuras Culinarias",
+      "description": "Desde el bazar de especias de Estambul hasta las cocinas de Gaziantep, saborea el rico tapiz de la cocina turca.",
+      "highlight": "Gastronomía turca auténtica"
+    },
+    "exploreMore": "Explorar"
+  },
+  "Stats": {
+    "years": "Años de Experiencia",
+    "tours": "Tours Completados",
+    "clients": "Clientes Satisfechos",
+    "destinations": "Destinos"
+  },
+  "Testimonials": {
+    "sectionTag": "Testimonios",
+    "sectionTitle": "Historias de Huéspedes",
+    "sectionSubtitle": "Escucha a los viajeros que experimentaron la magia de Turquía con nosotros",
+    "items": [
+      {
+        "quote": "Una experiencia absolutamente transformadora. El paseo en globo sobre Capadocia al amanecer fue el momento más mágico de mi vida.",
+        "name": "Sarah Mitchell",
+        "location": "Londres, Reino Unido",
+        "tour": "Explorador de Capadocia"
+      },
+      {
+        "quote": "Gemini Turkiye creó un viaje que superó todas las expectativas. La atención al detalle fue impecable.",
+        "name": "James Nakamura",
+        "location": "Tokio, Japón",
+        "tour": "Gran Tour de Turquía"
+      },
+      {
+        "quote": "Desde el crucero en goleta hasta los Derviches Giróvagos, cada momento fue curado a la perfección. Verdaderamente inolvidable.",
+        "name": "Marie Dubois",
+        "location": "París, Francia",
+        "tour": "Viaje al Patrimonio Cultural"
+      },
+      {
+        "quote": "El tour culinario por Estambul fue una revelación. Descubrimos sabores y tradiciones que nunca supimos que existían.",
+        "name": "Marco Rossi",
+        "location": "Milán, Italia",
+        "tour": "Descubrimiento Culinario"
+      }
+    ]
+  },
+  "CTA": {
+    "tagline": "Comienza Tu Aventura",
+    "title": "Planifica el Viaje de tus Sueños",
+    "subtitle": "Permítenos crear una experiencia turca inolvidable diseñada especialmente para ti",
+    "button": "Comenzar a Planificar"
+  },
+  "About": {
+    "heroTitle": "Nuestra Historia",
+    "heroSubtitle": "Creando experiencias turcas extraordinarias desde 2010",
+    "storyTitle": "Una Pasión por Turquía",
+    "storyP1": "Gemini Turkiye nació de un profundo amor por el rico tapiz de culturas, paisajes y tradiciones de Turquía. Fundada en 2010, nos propusimos compartir la auténtica belleza de este extraordinario país con viajeros exigentes de todo el mundo.",
+    "storyP2": "Nuestro equipo de diseñadores de viajes expertos combina un íntimo conocimiento local con hospitalidad de clase mundial para crear viajes que trascienden el turismo ordinario. Cada itinerario está meticulosamente diseñado para revelar las joyas ocultas de Turquía junto con sus monumentos más emblemáticos.",
+    "storyP3": "Desde las chimeneas de hadas de Capadocia hasta las aguas azules del Egeo, desde los bulliciosos bazares de Estambul hasta las ruinas antiguas de Éfeso — nos aseguramos de que cada momento de tu viaje por Turquía sea extraordinario.",
+    "valuesTitle": "Nuestros Valores",
+    "values": {
+      "luxury": {
+        "title": "Lujo sin Compromisos",
+        "description": "Cada detalle está seleccionado para ofrecer una experiencia del más alto nivel"
+      },
+      "authenticity": {
+        "title": "Autenticidad Cultural",
+        "description": "Te conectamos con el patrimonio vivo de Turquía a través de experiencias locales genuinas"
+      },
+      "excellence": {
+        "title": "Excelencia en el Servicio",
+        "description": "Nuestro equipo dedicado garantiza viajes impecables desde la primera consulta hasta la despedida final"
+      }
+    }
+  },
+  "Contact": {
+    "heroTitle": "Contáctanos",
+    "heroSubtitle": "Comienza tu viaje por Turquía con una conversación",
+    "formTitle": "Envíanos un Mensaje",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "interest": "Tour de Interés",
+      "interests": {
+        "select": "Selecciona un tipo de tour",
+        "cappadocia": "Explorador de Capadocia",
+        "istanbul": "Descubrimiento de Estambul",
+        "gulet": "Crucero en Goleta",
+        "cultural": "Patrimonio Cultural",
+        "culinary": "Aventura Culinaria",
+        "custom": "Viaje Personalizado"
+      },
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado con éxito! Nos pondremos en contacto contigo pronto.",
+      "error": "Algo salió mal. Por favor, inténtalo de nuevo."
+    },
+    "infoTitle": "Información de Contacto",
+    "info": {
+      "addressTitle": "Dirección",
+      "address": "Merkez mah. Halaskargazi cad.\nNo 175 Kat:8 Şişli – Istanbul Turkey",
+      "companyInfo": "Gemini Turizm Tic. A.S.\nŞişli VD. 3910312785",
+      "phoneTitle": "Teléfono",
+      "phone": "+90 212 123 45 67",
+      "emailTitle": "Correo",
+      "email": "info@geminiturkiye.com",
+      "hoursTitle": "Horario",
+      "hours": "Lun - Sáb: 09:00 - 18:00"
+    },
+    "followTitle": "Síguenos"
+  },
+  "DestinationsPage": {
+    "heroTitle": "Descubre Turquía",
+    "heroSubtitle": "Una tierra donde la historia antigua se encuentra con la belleza natural impresionante",
+    "explore": "Explorar"
+  },
+  "ExperiencesPage": {
+    "heroTitle": "Experiencias Extraordinarias",
+    "heroSubtitle": "Viajes artesanales que crean recuerdos para toda la vida",
+    "bookNow": "Reservar esta Experiencia"
+  },
+  "Footer": {
+    "description": "Experiencias de viaje de lujo seleccionadas por toda Turquía. Descubre la encrucijada de civilizaciones con guías locales expertos.",
+    "quickLinks": "Enlaces Rápidos",
+    "company": "Empresa",
+    "contactUs": "Contáctanos",
+    "newsletter": "Boletín",
+    "newsletterText": "Suscríbete para recibir información exclusiva de viajes y ofertas",
+    "emailPlaceholder": "Tu correo electrónico",
+    "subscribe": "Suscribirse",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}

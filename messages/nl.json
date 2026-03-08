@@ -1,0 +1,207 @@
+{
+  "Metadata": {
+    "title": "Gemini Turkiye | Premium Reiservaringen in Turkije",
+    "description": "Zorgvuldig samengestelde luxe reizen door het kruispunt van beschavingen. Ontdek Cappadocië, Istanbul, Pamukkale en meer met Gemini Turkiye."
+  },
+  "Nav": {
+    "home": "Home",
+    "about": "Over Ons",
+    "destinations": "Bestemmingen",
+    "experiences": "Ervaringen",
+    "contact": "Contact",
+    "bookNow": "Nu Boeken"
+  },
+  "Hero": {
+    "tagline": "Waar Oost en West Samenkomen",
+    "subtitle": "Zorgvuldig samengestelde luxe reizen door het kruispunt van beschavingen",
+    "cta": "Plan Uw Reis",
+    "scrollDown": "Scroll om te ontdekken"
+  },
+  "Destinations": {
+    "sectionTitle": "Iconische Bestemmingen",
+    "sectionSubtitle": "Van oude ruïnes tot Mediterrane kusten, ontdek de meest adembenemende locaties van Turkije",
+    "viewAll": "Alle Bestemmingen Bekijken",
+    "learnMore": "Meer Info",
+    "cappadocia": {
+      "name": "Cappadocië",
+      "description": "Sprookjesschoorstenen en heteluchtballonavonturen bij zonsopgang boven een maanlandschap"
+    },
+    "istanbul": {
+      "name": "Istanbul",
+      "description": "Waar continenten samenkomen — Byzantijnse grandeur ontmoet Ottomaanse pracht"
+    },
+    "pamukkale": {
+      "name": "Pamukkale",
+      "description": "Katoenkasteel-terrassen van glinsterende witte travertijn en oude thermale baden"
+    },
+    "ephesus": {
+      "name": "Efeze",
+      "description": "Wandel door millennia van geschiedenis in een van de best bewaarde antieke steden"
+    },
+    "antalya": {
+      "name": "Antalya",
+      "description": "Turquoise kustlijn ontmoet oude Lycische ruïnes aan de Mediterrane rivièra"
+    },
+    "gobeklitepe": {
+      "name": "Göbeklitepe",
+      "description": "Het oudste tempelcomplex ter wereld — het verhaal van de menselijke beschaving herschrijvend"
+    },
+    "bodrum": {
+      "name": "Bodrum",
+      "description": "Egeïsche elegantie met witgekalkte dorpjes, azuurblauwe baaien en legendarisch nachtleven"
+    }
+  },
+  "Experiences": {
+    "sectionTag": "Ervaringen",
+    "sectionTitle": "Zorgvuldig Samengestelde Ervaringen",
+    "sectionSubtitle": "Tijdloze herinneringen gecreëerd met passie en expertise",
+    "balloon": {
+      "name": "Heteluchtballonvaarten",
+      "description": "Zweef boven de sprookjesschoorstenen van Cappadocië bij zonsopgang en aanschouw een landschap dat de verbeelding tart vanuit de lucht.",
+      "highlight": "Ochtendiichtvluchten boven Cappadocië"
+    },
+    "gulet": {
+      "name": "Gulet Cruises",
+      "description": "Vaar over de turquoise wateren van de Egeïsche en Middellandse Zee aan boord van een traditionele Turkse houten gulet.",
+      "highlight": "Privéjacht langs de kust"
+    },
+    "cultural": {
+      "name": "Culturele Reizen",
+      "description": "Wees getuige van de betoverende ceremonie van de Draaiende Derwisjen en verken levende tradities die eeuwen overspannen.",
+      "highlight": "Sema-ceremonieën en erfgoedtours"
+    },
+    "food": {
+      "name": "Culinaire Avonturen",
+      "description": "Van de kruidenbazaar van Istanbul tot de keukens van Gaziantep, proef het rijke tapijt van de Turkse keuken.",
+      "highlight": "Authentieke Turkse gastronomie"
+    },
+    "exploreMore": "Ontdekken"
+  },
+  "Stats": {
+    "years": "Jaar Ervaring",
+    "tours": "Voltooide Tours",
+    "clients": "Tevreden Klanten",
+    "destinations": "Bestemmingen"
+  },
+  "Testimonials": {
+    "sectionTag": "Getuigenissen",
+    "sectionTitle": "Gastverhalen",
+    "sectionSubtitle": "Luister naar reizigers die de magie van Turkije met ons hebben ervaren",
+    "items": [
+      {
+        "quote": "Een absoluut levensveranderende ervaring. De ballonvaart boven Cappadocië bij dageraad was het meest magische moment van mijn leven.",
+        "name": "Sarah Mitchell",
+        "location": "Londen, VK",
+        "tour": "Cappadocië Ontdekker"
+      },
+      {
+        "quote": "Gemini Turkiye heeft een reis samengesteld die elke verwachting overtrof. De aandacht voor detail was onberispelijk.",
+        "name": "James Nakamura",
+        "location": "Tokio, Japan",
+        "tour": "Grote Turkije Tour"
+      },
+      {
+        "quote": "Van de gulet-cruise tot de Draaiende Derwisjen, elk moment was tot in de perfectie verzorgd. Werkelijk onvergetelijk.",
+        "name": "Marie Dubois",
+        "location": "Parijs, Frankrijk",
+        "tour": "Cultureel Erfgoed Reis"
+      },
+      {
+        "quote": "De culinaire tour door Istanbul was een openbaring. We ontdekten smaken en tradities waarvan we niet wisten dat ze bestonden.",
+        "name": "Marco Rossi",
+        "location": "Milaan, Italië",
+        "tour": "Culinaire Ontdekking"
+      }
+    ]
+  },
+  "CTA": {
+    "tagline": "Begin Uw Avontuur",
+    "title": "Plan Uw Droomreis",
+    "subtitle": "Laat ons een onvergetelijke Turkse ervaring creëren, speciaal voor u op maat gemaakt",
+    "button": "Begin met Plannen"
+  },
+  "About": {
+    "heroTitle": "Ons Verhaal",
+    "heroSubtitle": "Buitengewone Turkse ervaringen creëren sinds 2010",
+    "storyTitle": "Een Passie voor Turkije",
+    "storyP1": "Gemini Turkiye is geboren uit een diepe liefde voor het rijke tapijt van culturen, landschappen en tradities van Turkije. Opgericht in 2010, zijn we begonnen de authentieke schoonheid van dit buitengewone land te delen met veeleisende reizigers van over de hele wereld.",
+    "storyP2": "Ons team van deskundige reisontwerpers combineert diepgaande lokale kennis met gastvrijheid van wereldklasse om reizen te creëren die gewoon toerisme overstijgen. Elk reisschema is zorgvuldig samengesteld om zowel de verborgen parels als de iconische bezienswaardigheden van Turkije te onthullen.",
+    "storyP3": "Van de sprookjesschoorstenen van Cappadocië tot de azuurblauwe wateren van de Egeïsche Zee, van de bruisende bazaars van Istanbul tot de oude ruïnes van Efeze — wij zorgen ervoor dat elk moment van uw Turkse reis buitengewoon is.",
+    "valuesTitle": "Onze Waarden",
+    "values": {
+      "luxury": {
+        "title": "Compromisloos Luxe",
+        "description": "Elk detail is zorgvuldig geselecteerd om een ervaring van het hoogste niveau te bieden"
+      },
+      "authenticity": {
+        "title": "Culturele Authenticiteit",
+        "description": "Wij verbinden u met het levende erfgoed van Turkije door middel van authentieke lokale ervaringen"
+      },
+      "excellence": {
+        "title": "Uitmuntende Service",
+        "description": "Ons toegewijde team zorgt voor naadloze reizen van de eerste vraag tot het laatste afscheid"
+      }
+    }
+  },
+  "Contact": {
+    "heroTitle": "Neem Contact Op",
+    "heroSubtitle": "Begin uw Turkse reis met een gesprek",
+    "formTitle": "Stuur Ons een Bericht",
+    "form": {
+      "name": "Uw Naam",
+      "email": "E-mailadres",
+      "phone": "Telefoonnummer",
+      "interest": "Tour Interesse",
+      "interests": {
+        "select": "Selecteer een tourtype",
+        "cappadocia": "Cappadocië Ontdekker",
+        "istanbul": "Istanbul Ontdekking",
+        "gulet": "Gulet Cruise",
+        "cultural": "Cultureel Erfgoed",
+        "culinary": "Culinair Avontuur",
+        "custom": "Reis op Maat"
+      },
+      "message": "Uw Bericht",
+      "submit": "Bericht Versturen",
+      "sending": "Versturen...",
+      "success": "Bericht succesvol verzonden! We nemen snel contact met u op.",
+      "error": "Er is iets misgegaan. Probeer het opnieuw."
+    },
+    "infoTitle": "Contactgegevens",
+    "info": {
+      "addressTitle": "Adres",
+      "address": "Merkez mah. Halaskargazi cad.\nNo 175 Kat:8 Şişli – Istanbul Turkey",
+      "companyInfo": "Gemini Turizm Tic. A.S.\nŞişli VD. 3910312785",
+      "phoneTitle": "Telefoon",
+      "phone": "+90 212 123 45 67",
+      "emailTitle": "E-mail",
+      "email": "info@geminiturkiye.com",
+      "hoursTitle": "Openingstijden",
+      "hours": "Ma - Za: 09:00 - 18:00"
+    },
+    "followTitle": "Volg Ons"
+  },
+  "DestinationsPage": {
+    "heroTitle": "Ontdek Turkije",
+    "heroSubtitle": "Een land waar oude geschiedenis en adembenemende natuurlijke schoonheid samenkomen",
+    "explore": "Ontdekken"
+  },
+  "ExperiencesPage": {
+    "heroTitle": "Buitengewone Ervaringen",
+    "heroSubtitle": "Handgemaakte reizen die herinneringen voor het leven creëren",
+    "bookNow": "Deze Ervaring Boeken"
+  },
+  "Footer": {
+    "description": "Zorgvuldig samengestelde luxe reiservaringen door heel Turkije. Ontdek het kruispunt van beschavingen met deskundige lokale gidsen.",
+    "quickLinks": "Snelle Links",
+    "company": "Bedrijf",
+    "contactUs": "Neem Contact Op",
+    "newsletter": "Nieuwsbrief",
+    "newsletterText": "Abonneer voor exclusieve reisinzichten en aanbiedingen",
+    "emailPlaceholder": "Uw e-mailadres",
+    "subscribe": "Abonneren",
+    "rights": "Alle rechten voorbehouden.",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene Voorwaarden"
+  }
+}
